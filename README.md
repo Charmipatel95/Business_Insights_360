@@ -55,7 +55,7 @@ Unfortunately, a recent venture into the American market resulted in unexpected 
 In simpler terms, here's what data we have available for analysis:
 
 - **Dimension Tables**: These contain static information about customers and products.
-  - **dim_customer**:
+  - dim_customer
         - **27** distinct markets (ex India, USA, spain)
         - **75** distinct customers thorough out the market
         - **2** types of platforms
@@ -65,7 +65,8 @@ In simpler terms, here's what data we have available for analysis:
             - Retailer
             - Direct
             - Distributors
-  - **dim_market**: Information about different markets, including sub-zones and regions.
+
+    - **dim_market**: Information about different markets, including sub-zones and regions.
         - **27** distinct markets (ex India, USA, spain)
         - 7 sub-zones
         - 4 regions
@@ -73,9 +74,9 @@ In simpler terms, here's what data we have available for analysis:
             - EU
             - nan
             - LATAM
-
+  
   - **dim_product**: Breakdown of products into divisions, categories, and variants.
-    - Divisions
+        - Divisions
             - P & A
                 - Peripherals
                 - Accessories
@@ -87,17 +88,16 @@ In simpler terms, here's what data we have available for analysis:
                 - Storage
         - There are 14 different categories, Like Internal HDD, keyboard
         - There are different variants available for the same product
-
   
 - **Fact Tables**: These contain transactional data.
   - **fact_forecast_monthly**: Used for forecasting customer needs, with details like start date of the month and forecasted quantities.
-    - Forecast the customer’s need in advance, can help in
-            - Higher customer satisfaction
-            - Reduced cost in warehouses for storage purpose
-        - The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
-        - All the date of the month will be replaced by the start date of the month
-        - It will have all the column names and in the end it will have the forecast quantity need of the customer
-
+      - This table is used to forecast the customer’s need in advance, which can help in
+        - Higher customer satisfaction
+        - Reduced cost in warehouses for storage purpose
+    - The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
+    - All the date of the month will be replaced by the start date of the month
+    - It will have all the column names and in the end it will have the forecast quantity need of the customer
+    
   - **fact_sales_monthly**: Similar to the forecast table but with actual sold quantities instead of forecasted ones.
 
 - **Additional Tables**:
@@ -118,7 +118,7 @@ Understanding this data will help us conduct thorough analysis and make informed
 - Think of data modeling as the blueprint for our reports—it's the backbone that everything else relies on. If our blueprint isn't strong, our reports won't perform well. So, we'll make sure our data modeling is spot-on.
 - We're using the Snowflake method to keep everything neat and tidy.
 
-dm image-
+![bi 360- data model](https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/2fc1a90e-544b-468b-b40e-5cde0876d493)
 
 ### Dashboard designing
 
@@ -128,7 +128,7 @@ Once we've got the mockups as our guide, it's full steam ahead for the team to s
 
 On the main Home view, you'll see a menu with various options like Information, Finance, Sales, Marketing, Supply Chain, Executive, Products, and Support. Just choose the one you're interested in by clicking its button, and you'll be whisked away to that specific view page in no time.
 
-image of hm page
+![bi 360- homepage](https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/5f30ad75-ceef-4c8f-80f4-f84e5f140f20)
 
 ## Overall Report
 
