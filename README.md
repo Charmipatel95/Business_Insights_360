@@ -136,25 +136,25 @@ https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/f5ca1ab0
 
 ## Finance View
 
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/40f1b044-cf40-49e6-9685-81f80ba4481a
 
 ## Sales View
 
-
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/9252244b-f03f-43ab-a5a6-15ce6f383007
 
 ## Marketing View
 
-
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/2929963d-3ef9-49d6-b456-f0569e94f18e
 
 ## Supply chain View
 
-
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/bcefafec-9fc4-458f-8250-7d3fdd62e5aa
 
 ## Executive View
 
-
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/e109fceb-42dc-4d14-9eac-d6413b35e445
 
 you can find the full report file here : [Report]
-
 
 ## Project Outcome
 
