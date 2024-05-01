@@ -43,7 +43,7 @@ Here's a rundown of everything I've learned:
 - Problem-solving mindset
 - Interview strategies
 
-## Company’s back ground
+## Company’s background
 
 AltiQ Hardware has expanded globally and sells computers and accessories through three main channels: 
 - Retailers,
