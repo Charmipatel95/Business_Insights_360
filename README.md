@@ -131,11 +131,7 @@ On the main Home view, you'll see a menu with various options like Information, 
 ![bi 360- homepage](https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/5f30ad75-ceef-4c8f-80f4-f84e5f140f20)
 
 ## Overall Report
-
-
-
-## Info Page
-
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/f5ca1ab0-0b02-4ea4-8a2c-6fb22120022f
 
 
 ## Finance View
