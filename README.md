@@ -56,15 +56,15 @@ In simpler terms, here's what data we have available for analysis:
 
 - **Dimension Tables**: These contain static information about customers and products.
   - dim_customer
-        - **27** distinct markets (ex India, USA, spain)
-        - **75** distinct customers thorough out the market
-        - **2** types of platforms
-            - Brick & Motors - Physical/offline store
-            - E-commerce - Online Store (Amazon, flipkart)
-        - Three channels
-            - Retailer
-            - Direct
-            - Distributors
+    - **27** distinct markets (ex India, USA, spain)
+      - **75** distinct customers thorough out the market
+       - **2** types of platforms
+           - Brick & Motors - Physical/offline store
+           - E-commerce - Online Store (Amazon, flipkart)
+      - Three channels
+         - Retailer
+          - Direct
+        - Distributors
 
     - **dim_market**: Information about different markets, including sub-zones and regions.
         - **27** distinct markets (ex India, USA, spain)
@@ -154,7 +154,7 @@ https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/bcefafec
 
 https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/e109fceb-42dc-4d14-9eac-d6413b35e445
 
-you can find the full report file here : [Report]
+you can check the [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGE5Y2M2YzQtOTI3Ny00NGQyLWExYTUtZjAyYmE0YmVhNzYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Project Outcome
 
