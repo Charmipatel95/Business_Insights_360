@@ -4,7 +4,9 @@
 AtliQ Hardware is growing really fast, and now they're jumping into using PowerBI to look at data for the first time. They want to beat their competitors and make better decisions using data. This project is all about giving clear answers to questions about money, sales, advertising, and how they get their products to customers.
 I worked on this project by following the Codebasics PowerBi Course
 
-:link: [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZGE5Y2M2YzQtOTI3Ny00NGQyLWExYTUtZjAyYmE0YmVhNzYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+:link: [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYmNhNzQ0MzAtMDk3Ny00OWU0LTk1MjItYjc0ODE2ZWNlYjQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+:link: [LinkedIn Post]()
 
 Here's a rundown of everything I've learned:
 ## :mag: Key Skills:
@@ -128,33 +130,32 @@ Once we've got the mockups as our guide, it's full steam ahead for the team to s
 
 On the main Home view, you'll see a menu with various options like Information, Finance, Sales, Marketing, Supply Chain, Executive, Products, and Support. Just choose the one you're interested in by clicking its button, and you'll be whisked away to that specific view page in no time.
 
-![bi 360- homepage](https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/5f30ad75-ceef-4c8f-80f4-f84e5f140f20)
+![hp](https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/7196194d-a8e4-455b-a705-6867025cf1c4)
 
 ## :chart_with_downwards_trend:	Overall Report
-https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/f5ca1ab0-0b02-4ea4-8a2c-6fb22120022f
-
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/af650d6d-8b2d-4e09-b84c-27b41a8cc00f
 
 ## :moneybag: Finance View
 
-https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/40f1b044-cf40-49e6-9685-81f80ba4481a
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/65099d0d-74db-464b-8192-c874edd0144f
 
 ## 🛒 Sales View
 
-https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/9252244b-f03f-43ab-a5a6-15ce6f383007
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/cebe602e-c482-41e3-9315-07973503d694
 
 ## :loudspeaker: Marketing View
 
-https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/2929963d-3ef9-49d6-b456-f0569e94f18e
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/56e9712f-1afa-4c71-a99d-64322d2c352f
 
 ## :truck: Supply chain View
 
-https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/bcefafec-9fc4-458f-8250-7d3fdd62e5aa
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/4cf98eb6-c130-455f-bbb7-9fbd8c72db73
 
 ## 👩🏻‍💼Executive View
 
-https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/e109fceb-42dc-4d14-9eac-d6413b35e445
+https://github.com/Charmipatel95/Business_Insights_360/assets/154671418/e23cac4a-a4fa-461b-bec1-9538a5ecf938
 
-you can check the [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGE5Y2M2YzQtOTI3Ny00NGQyLWExYTUtZjAyYmE0YmVhNzYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+you can check the [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmNhNzQ0MzAtMDk3Ny00OWU0LTk1MjItYjc0ODE2ZWNlYjQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## :mortar_board:	Project Outcome
 
