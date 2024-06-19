@@ -6,7 +6,7 @@ I worked on this project by following the Codebasics PowerBi Course
 
 :link: [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYmNhNzQ0MzAtMDk3Ny00OWU0LTk1MjItYjc0ODE2ZWNlYjQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-:link: [LinkedIn Post]()
+:link: [LinkedIn Post](https://www.linkedin.com/posts/charmi-patel-771815242_powerbi-dataanalysis-dashboarddesign-activity-7209242862121627648-hglH?utm_source=share&utm_medium=member_desktop)
 
 Here's a rundown of everything I've learned:
 ## :mag: Key Skills:
